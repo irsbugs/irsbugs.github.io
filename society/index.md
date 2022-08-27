@@ -8,6 +8,18 @@ description:
 type: text
 hidetitle: true
 
+<!---
+Note:
+This society.md file resides in /pages/ folder. It links to files in 
+/pages/society/ and /pages/minutes/.
+When adding new AGM minutes markdown file. Place it in /pages/meetings/ as
+yyyy-agm.md then update this file with * [yyyy AGM](/meeting/yyyy-agm/)
+
+This file, for Incorporated Society information, also link to files in the 
+/pages/society/ folder. These files use images from /images/ folder.
+Ian - 2022-08-27
+-->
+
 # Incorporated Society
 
 In 2002 WLUG was registered as the society: Waikato Linux Users Group Incorporated.
