@@ -7,19 +7,42 @@ link:
 description: 
 type: text
 hidetitle: true
+<!---
+Draft completed: 2022-08-27 Ian Stewart
+
+-->
 
 # Contact WLUG
 
-The **Waikato Linux Users Group** is based in Hamilton, New Zealand to serve the Waikato region.
+## In-Person
 
-We thank the following 2022 sponsors:
-
-Waikato University School of Computing & Mathematical Sciences for providing a meeting room each month.
-
-https://www.cms.waikato.ac.nz/
+Please come along to one of our monthly meetings. If you want help with issues on your laptop that's running a Linux distro, then bring it along. After the evenings presentation is complete, then we will investigate the problem.
 
 
+## By E-Mail
 
-RimuHosting for hosting the WLUG website:
+We have a mailing list that you may send out an e-mail. See: [Mailing List](/mail/).
 
-https://rimuhosting.com/
+
+## By Postal Mail
+
+Please write to:
+
+    Waikato Linux Users Group Inc.
+    C/- Faculty of Computing and Mathematical Sciences
+    The University of Waikato
+    Private Bag 3105
+    Hamilton 3240
+    New Zealand
+
+
+## Direct contact with the President of WLUG
+
+If you have questions regarding WLUG that you do not want to post to the mailing list, then please contact:
+
+    Peter Reutemann
+    work ph: 07 858 5174
+    work email: fracpete at waikato dot ac dot nz
+
+
+
