@@ -40,7 +40,7 @@ This registration is with the [Incorporated Societies Register](https://is-regis
 * Date of Incorporation: 28-Nov-2002
 * Registered Office Address: Department of Computer Science, The University Of Waikato, 1st Floor, Hillcrest, Hamilton,3204, New Zealand
 
-Filings of Annual Financial Reports and changes, etc. may be viewed on the Incorporated Societies [web-site](https://is-register.companiesoffice.govt.nz/).
+Additional information may be viewed on the Incorporated Societies [web-site](https://is-register.companiesoffice.govt.nz/).
 
 ### Certificates
 

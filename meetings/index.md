@@ -33,12 +33,12 @@ Each year we have our Annual General Meeting. This is held on the 4th Monday of 
 
 ## Announcement of Meetings
 
-We use the [meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/) website to publish each month the topic to be presented. This website will also include the link to the Big Blue Button (BBB) video conferencing facility for On-line attendance. You need to register with meetup.com to be able to view the meeting information. There is no charge to register with meetup.com, but you will be subjected to their marketing e-mails about once a week. 
+We use the [meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/) website to publish each month the topic to be presented. This website will also include the link to the Big Blue Button (BBB) video conferencing facility for on-line attendance. You need to register with meetup.com to be able to view the meeting information. There is no charge to register with meetup.com, but you will be subjected to their marketing e-mails about once a week. 
 
 
 ## On-Line Attendance
 
-Most of the presentations at our meetings are now broadcast live on-line. We use the [Big Blue Button](https://bbb2.nzoss.nz/b/) (BBB) video-conferencing application that is hosted by the NZ Open Source Society. If you are unable to attend in-person to a meeting, then you are welcome to join on-line. All you need is for your computer to run a browser. E.g. Firefox, and to get the link for the meeting from [WLUG meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/)
+Most of the presentations at our meetings are now broadcast live on-line. We use the [Big Blue Button](https://bbb2.nzoss.nz/b/) (BBB) video-conferencing application that is hosted by the [NZ Open Source Society](https://nzoss.nz/). If you are unable to attend in-person to a meeting, then you are welcome to join on-line. All you need is for your computer to run a browser. E.g. Firefox, and you get the link for the meeting from [WLUG meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/)
 
 **Please note:**
 
@@ -46,7 +46,7 @@ Most of the presentations at our meetings are now broadcast live on-line. We use
 
 * Your computer's browser application will use a lot of CPU resources in processing the video and audio. You need quite a powerful laptop. E.g. CPU 3GHz/Quad core with 8GB+ of RAM, and 1Mb/s+ internet speed. When watching a presentation then its advisable to turn off your microphone and camera to conserve resources, and turn them on as required.
 
-* Due to contending with audio propagation delays, the presenter will not normally be listening on headphones while presenting. Another person at the meeting will be monitoring for any questions that are asked. They will then stop the presenter and relay your question.
+* Due to contending with audio propagation delays, the presenter will not normally be listening on headphones while presenting. Another person at the meeting will be monitoring for any questions that are asked. They will then stop the presenter and relay your question. It is often better to post your questions to the presenter in the BBB *chat* panel.
 
 
 ## Video Recording of Meetings

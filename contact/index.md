@@ -21,7 +21,7 @@ Please come along to one of our monthly meetings. If you want help with issues o
 
 ## By E-Mail
 
-We have a mailing list that you may send out an e-mail. See: [Mailing List](/mail/).
+We have a mailing list that you may use send out an e-mail to our Open Source Software community. See: [Mailing List](/mail/).
 
 
 ## By Postal Mail

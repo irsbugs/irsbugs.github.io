@@ -26,9 +26,9 @@ Membership is currently set at $10 per year for an individual. Membership curren
 
 If you are already a member, you can simply extend your membership by paying the membership via online banking:
 
-ASB, Waikato Linux Users Group Inc., 12-3122-0223054-00 (please include your name in the payment details)
+ASB, Waikato Linux Users Group Incorporated, 12-3122-0223054-00 (please include your name in the payment details)
 
-Be aware that when you pay online, we will not be able to give you confirmation of your payment until we have checked the banks tranactions report.
+Be aware that when you pay online, we will not be able to give you confirmation of your payment until we have checked the banks transactions report.
 
 
 ## New Member Form
@@ -39,7 +39,7 @@ Your membership fee allows us:
 
 * to keep everyone refreshed at meetings throughout the year
 * to run the WLUG website at http://www.wlug.org.nz/
-* help WLUG to recover all their costs
+* helps to ensure WLUG breaks even and we can continue to operate.
 
 
 ...and entitles you to:
@@ -128,9 +128,7 @@ access the information held about you and to request correction.
     
     * Note: Please include your name in the banks account transfer fields.
 
-* Pay your annual membership in cash to the Treasurer or Secretary at the next WLUG meeting you attend.
-
-* Register with [meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/) so that you can check for information about the next meeting
+* Register with [meetup.com](https://www.meetup.com/WaikatoLinuxUsersGroup/) so that you can check for information about the next meeting or get the BBB link if attending on-line.
 
 * Join the WLUG [mailing list](/mail/)
 

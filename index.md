@@ -8,15 +8,12 @@
 .. type: text
 .. hidetitle: true
 <!---
-Draft completed: 2022-
+Draft completed: 2022-Aug-29 Ian Stewart
 
 -->
-
-**This website is under development**
-
 # Waikato Linux Users Group (WLUG)
 
-Welcome to the **Waikato Linux Users Group (WLUG)**. We are based in Hamilton, New Zealand and initially provided for our Waikato region.
+Welcome to the **Waikato Linux Users Group (WLUG)**. We are based in Hamilton, New Zealand and initially provided for our Waikato region. All our work and presentations are done by volunteers.
 
 Although our group originally focused on the Linux operating system, our focus has broadened to encompass all [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software).
 
@@ -28,23 +25,22 @@ For more details about our [Society](/society/).
 
 You may also like to subscribe to our [Mailing list](/mail/).
 
-We use Github to store previous presentation and demonstration files. See [Repository](/repository/).
+We use GitHub to store previous presentation and demonstration files. See [Repository](/repository/).
 
 We have some other information that may be of interest in [History](/history/).
 
 If you want to get in touch with us, then see [Contacts](/contants/)
 
-Gone out for dinner
-
 We are grateful for sponsorship from:
 
 * The Waikato University [School of Computing & Mathematical Sciences](https://www.cms.waikato.ac.nz/).
 * [RimuHosting](https://rimuhosting.com/).
-* Danial Lawson
 * New Zealand Open Source Society [NZOSS](https://nzoss.nz/)
 
-
+You may wish to follow us in Twitter
 [![Twitter](/images/twitter.png)](https://twitter.com/WaikatoLUG)
+
+Plus you can go to our Youtube channel and look at past presentation that we've recorded
 [![Youtube](/images/youtube.png)](https://www.youtube.com/channel/UCf5L8RezX7TqDdI2uZjbe-Q)
 
 
