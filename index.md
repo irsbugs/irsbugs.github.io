@@ -7,10 +7,12 @@
 .. description: 
 .. type: text
 .. hidetitle: true
+
 <!---
 Draft completed: 2022-Aug-29 Ian Stewart
 
 -->
+
 # Waikato Linux Users Group (WLUG)
 
 Welcome to the **Waikato Linux Users Group (WLUG)**. We are based in Hamilton, New Zealand and initially provided for our Waikato region. All our work and presentations are done by volunteers.

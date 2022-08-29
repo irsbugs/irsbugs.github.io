@@ -67,7 +67,7 @@ this form.
 December.
 
 5. WLUG undertakes to collect, use and store the information provided on this form according
-to the principles of the Privacy Act 1993. The information will be used by WLUG for
+to the principles of the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html). The information will be used by WLUG for
 statistical, funding and administration purposes within the society. You have the right to
 access the information held about you and to request correction.
 
