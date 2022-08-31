@@ -52,17 +52,17 @@ Feel free to take a walk back in time and browse the [WLUG wiki](http://wiki.wlu
 
 ## Creation of this WLUG Website
 
-This website has been created using the Python based [Nikola](https://getnikola.com/) *Static Site Generator*. This is open source software and you may view the github repository for the [source code](https://github.com/getnikola/nikola).
+This website has been created using the Python based [Nikola](https://getnikola.com/) *Static Site Generator*. This is open source software and you may view the GitHub repository for the [source code](https://github.com/getnikola/nikola).
 
 The source files used for *Nikola* to build this website reside at the WLUG repository wlug.github.io [src branch](https://github.com/irsbugs/wlug.github.io/tree/src), while the website html files reside in the [main branch](https://github.com/irsbugs/wlug.github.io)
 
-Those with access to the WLUG repository wlug.github.io may have a local [git](https://en.wikipedia.org/wiki/Git) folder that holds a copy of the source and main website files. These files may then be edited to enhance the website and using the *nokola gihub_deploy* bash command the files on github are updated. 
+Those with access to the WLUG repository wlug.github.io may have a local [Git](https://en.wikipedia.org/wiki/Git) folder that holds a copy of the source and main website files. These files may then be edited to enhance the website and using the *nokola github_deploy* bash command the files on GitHub are updated. 
 
 GitHub also provide web-hosting service and this WLUG website is accessed via [https://wlug.github.io](https://irsbugs.github.io).
 
-Using a [CNAME record](https://en.wikipedia.org/wiki/CNAME_record) the DNS is able to map **wlug.org.nz** to **wlug.github.io**. Users connecting to **https://wlug.org.nz** will be unaware that they are connected to a github hosted website.
+Using a [CNAME record](https://en.wikipedia.org/wiki/CNAME_record) the DNS is able to map **wlug.org.nz** to **wlug.github.io**. Users connecting to **https://wlug.org.nz** will be unaware that they are connected to a GitHub hosted website.
 
-Another feature of GitHub is that using a browser a change may be made to the website source code. For example a change of phone number. Upon committing the change, GitHub will run the Nikola updating process. After a few minutes the web-site will be updated. This is done by the workflow [yaml code](https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html) in the src branch file .github/workflows/main.yml.
+Another feature of GitHub is that using a browser a change may be made to the website source code. For example a change of phone number. Upon committing the change, GitHub will run the Nikola updating process. After a few minutes the web-site will be updated. This is done by the [workflow yaml code](https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html) in the src branch file .github/workflows/main.yml.
  
             
 

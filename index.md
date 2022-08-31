@@ -40,10 +40,10 @@ We are grateful for sponsorship from:
 * New Zealand Open Source Society [NZOSS](https://nzoss.nz/)
 
 You may wish to follow us in Twitter
-[![Twitter](/images/twitter.png)](https://twitter.com/WaikatoLUG)
-
-Plus you can go to our Youtube channel and look at past presentation that we've recorded
-[![Youtube](/images/youtube.png)](https://www.youtube.com/channel/UCf5L8RezX7TqDdI2uZjbe-Q)
-
+<a href="https://twitter.com/WaikatoLUG"><img alt="Twitter" src="/images/twitter.png" width=40"></a>
+<!--- Note: html can also have Height. E.g. width=40 height=40 -->
+ 
+Plus you can go to our YouTube channel and look at past presentations that we've recorded
+<a href="https://www.youtube.com/channel/UCf5L8RezX7TqDdI2uZjbe-Q"><img alt="YouTube" src="/images/youtube.png" width=40"></a>
 
 

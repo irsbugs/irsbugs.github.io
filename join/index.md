@@ -13,6 +13,9 @@ Draft completed: 2022-08-28 Ian Stewart
 TODO: 
 1. Get Treasurers email address off Peter.
 2. formspree.io New Member Form goes to irsbugs@hotmail.com
+3.  Privacy Act 1993 https://dpmc.govt.nz/our-business-units/cabinet-office/supporting-work-cabinet/cabinet-manual/8-official-information-3
+
+2020 Principles https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23342.html
 -->
 
 # Membership of WLUG

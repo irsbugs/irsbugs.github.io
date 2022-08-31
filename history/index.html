@@ -7,7 +7,10 @@
 <title>History | Waikato Linux Users Group</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.css" integrity="sha256-cLMYWYYutHkt+KpNqjg7NVkYSQ+E2VbrXsEvOqU7mL0=" crossorigin="anonymous">
-<link href="../assets/css/all.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
@@ -34,7 +37,7 @@ bg-light
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../">
-            <img src="../images/wlug-200x60.png" alt="Waikato Linux Users Group" id="logo" class="d-inline-block align-top"></a>
+            <img src="../images/wlug-2000.svg" alt="Waikato Linux Users Group" id="logo" class="d-inline-block align-top"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -121,12 +124,12 @@ jobs:
 <p>In 2002 WLUG became an incorporated society and at the same time a <a href="https://en.wikipedia.org/wiki/Wiki">Wiki</a> was set up to aid Linux and Open Source enthusiasts. At the time Daniel Lawson was the president of WLUG. Daniel continues to keep the <em>WLUG wiki</em> running on his servers.</p>
 <p>Feel free to take a walk back in time and browse the <a href="http://wiki.wlug.org.nz/">WLUG wiki</a></p>
 <h3>Creation of this WLUG Website</h3>
-<p>This website has been created using the Python based <a href="https://getnikola.com/">Nikola</a> <em>Static Site Generator</em>. This is open source software and you may view the github repository for the <a href="https://github.com/getnikola/nikola">source code</a>.</p>
+<p>This website has been created using the Python based <a href="https://getnikola.com/">Nikola</a> <em>Static Site Generator</em>. This is open source software and you may view the GitHub repository for the <a href="https://github.com/getnikola/nikola">source code</a>.</p>
 <p>The source files used for <em>Nikola</em> to build this website reside at the WLUG repository wlug.github.io <a href="https://github.com/irsbugs/wlug.github.io/tree/src">src branch</a>, while the website html files reside in the <a href="https://github.com/irsbugs/wlug.github.io">main branch</a></p>
-<p>Those with access to the WLUG repository wlug.github.io may have a local <a href="https://en.wikipedia.org/wiki/Git">git</a> folder that holds a copy of the source and main website files. These files may then be edited to enhance the website and using the <em>nokola gihub_deploy</em> bash command the files on github are updated. </p>
+<p>Those with access to the WLUG repository wlug.github.io may have a local <a href="https://en.wikipedia.org/wiki/Git">Git</a> folder that holds a copy of the source and main website files. These files may then be edited to enhance the website and using the <em>nokola github_deploy</em> bash command the files on GitHub are updated. </p>
 <p>GitHub also provide web-hosting service and this WLUG website is accessed via <a href="https://irsbugs.github.io">https://wlug.github.io</a>.</p>
-<p>Using a <a href="https://en.wikipedia.org/wiki/CNAME_record">CNAME record</a> the DNS is able to map <strong>wlug.org.nz</strong> to <strong>wlug.github.io</strong>. Users connecting to <strong>https://wlug.org.nz</strong> will be unaware that they are connected to a github hosted website.</p>
-<p>Another feature of GitHub is that using a browser a change may be made to the website source code. For example a change of phone number. Upon committing the change, GitHub will run the Nikola updating process. After a few minutes the web-site will be updated. This is done by the workflow <a href="https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html">yaml code</a> in the src branch file .github/workflows/main.yml.</p>
+<p>Using a <a href="https://en.wikipedia.org/wiki/CNAME_record">CNAME record</a> the DNS is able to map <strong>wlug.org.nz</strong> to <strong>wlug.github.io</strong>. Users connecting to <strong>https://wlug.org.nz</strong> will be unaware that they are connected to a GitHub hosted website.</p>
+<p>Another feature of GitHub is that using a browser a change may be made to the website source code. For example a change of phone number. Upon committing the change, GitHub will run the Nikola updating process. After a few minutes the web-site will be updated. This is done by the <a href="https://getnikola.com/blog/automating-nikola-rebuilds-with-github-actions.html">workflow yaml code</a> in the src branch file .github/workflows/main.yml.</p>
     </div>
     
 
@@ -141,7 +144,7 @@ jobs:
 </div>
 
 
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js" integrity="sha256-ULQV01VS9LCI2ePpLsmka+W0mawFpEA0rtxnezUj4A4=" crossorigin="anonymous"></script><script src="../assets/js/all.js"></script><script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js" integrity="sha256-ULQV01VS9LCI2ePpLsmka+W0mawFpEA0rtxnezUj4A4=" crossorigin="anonymous"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});

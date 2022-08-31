@@ -1,4 +1,0 @@
-Sitemap: https://irsbugs/github.io/sitemapindex.xml
-
-User-Agent: *
-Host: irsbugs

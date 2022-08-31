@@ -1,0 +1,23 @@
+/*
+themes/assets/css/custom.css CSS file for Website
+The FILES_FOLDERS places the customs.css in themes/assets/css/ in the 
+output/assets/css/ folder
+FILES_FOLDERS = {'files': 'files', 'themes/assets/css/': 'assets/css/'}
+*/
+
+/*
+logo used in conf.py. 
+LOGO_URL = "/images/wlug-2000.svg" and set SHOW_BLOG_TITLE = False
+
+Set the height of the logo. Must be .svg file to be re-sized by css.
+
+Set a minimum logo height to ensure .svg are displayed if there is no brand text (#3493)
+#logo {
+    min-height: 25px;
+}
+
+Set the height of the logo...
+*/
+#logo {
+    height: 50px;
+}

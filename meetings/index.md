@@ -51,7 +51,7 @@ Most of the presentations at our meetings are now broadcast live on-line. We use
 
 ## Video Recording of Meetings
 
-Most meetings are recorded by the BBB application. After completing an on-line meeting the BBB application generates a video file. This is then uploaded to *Youtube*. You can then watch the meeting at a later date. The link to the *Youtube* clip is entered as a comment in the meetup.com comments. Alternatively look for the video at the [WLUG Youtube Channel](https://www.youtube.com/channel/UCf5L8RezX7TqDdI2uZjbe-Q)
+Most meetings are recorded by the BBB application. After completing an on-line meeting the BBB application generates a video file. This is then uploaded to *YouTube*. You can then watch the meeting at a later date. The link to the *YouTube* clip is entered as a comment in the meetup.com comments. Alternatively look for the video at the [WLUG YouTube Channel](https://www.youtube.com/channel/UCf5L8RezX7TqDdI2uZjbe-Q)
 
 
 ## Location of Meetings and Parking
