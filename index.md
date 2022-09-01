@@ -31,13 +31,13 @@ We use GitHub to store previous presentation and demonstration files. See [Repos
 
 We have some other information that may be of interest in [History](/history/).
 
-If you want to get in touch with us, then see [Contacts](/contants/)
+If you want to get in touch with us, then see [Contact](/contact/).
 
 We are grateful for sponsorship from:
 
 * The Waikato University [School of Computing & Mathematical Sciences](https://www.cms.waikato.ac.nz/).
 * [RimuHosting](https://rimuhosting.com/).
-* New Zealand Open Source Society [NZOSS](https://nzoss.nz/)
+* New Zealand Open Source Society [NZOSS](https://nzoss.nz/).
 
 You may wish to follow us in Twitter
 <a href="https://twitter.com/WaikatoLUG"><img alt="Twitter" src="/images/twitter.png" width=40"></a>

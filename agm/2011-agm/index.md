@@ -37,13 +37,12 @@ The year started with a Debian Squeeze party and pizza
 
 Lindsay Druett did a talk on IPV6
 
-Tom Butz talked on [ http://crux.nu/](Crux%20Linux%20) and it was
+Tom Butz talked on [https://crux.nu/](https://crux.nu/) and it was
 interesting to see a PalmOS (or Psion) emulation.
 
 Peter Reutemann talked about the Sheeva plug computer
 
-Michael Doerner of [
-http://www.technologywise.co.nz](Technology%20Wise%20) spoke on the SME
+Michael Doerner of [TechnologyWise](https://www.technologywise.co.nz/) spoke on the SME
 Server project
 
 Greg Balle talked about BitCoin, how is works and showed off his mining
@@ -60,12 +59,10 @@ John Billings talked about virtualisation
 
 Later in year
 
-1.  Chris O'Halloran talked a little about [
-    http://matplotlib.sourceforge.net/](Matplotlib%20) and [
-    http://www.python.org/](Python%20)
-2.  Ian Stewart talked about [
-    http://www.libreoffice.org/](LibreOffice%20)and programming it using
-    [ http://en.wikipedia.org/wiki/BASIC](Basic%20)
+1.  Chris O'Halloran talked a little about [Matplotlib](https://matplotlib.org/) and 
+    [Python](https://www.python.org/).
+2.  Ian Stewart talked about [Libre Office](https://www.libreoffice.org/) and programming it using
+    [BASIC](https://en.wikipedia.org/wiki/BASIC).
 
 Chris O'Halloran moved to have the President's report accepted.
 RodAldridge seconded. Carried Unanimous
@@ -76,7 +73,7 @@ Chris O'Halloran presented the following
 
 The present account is $577.14
 
-[ http://rimuhosting.com/](Rimuhosting%20) provided a generous donation
+[RimiHosting](https://rimuhosting.com/) provided a generous donation
 of $250 as part of Software Freedom Day
 
 At the meeting it became apparent that not all the costs incurred were
