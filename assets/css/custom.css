@@ -21,3 +21,67 @@ Set the height of the logo...
 #logo {
     height: 50px;
 }
+/*
+.navbar-default .navbar-nav>.active>a:before,
+.navbar-nav>li>a:before {
+    background-repeat: no-repeat;
+    background-position: 0 top;
+    content: "";
+    display: inline-block;
+    height: 29px;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 29px;
+}
+*/
+.navbar-default .navbar-nav>.active>a.index:before,
+.navbar-nav>li>a.index:before { 
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png'); 
+    }
+
+/* <a href="https://twitter.com/WaikatoLUG"><img alt="Twitter" src="/images/twitter.png" width=40"></a>
+<img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png">
+*/
+
+/* #4c828f # 386e7b 56,110,123, are darker versions of logo color 126,180,193 = 7eb4c1 */
+.navbar {
+  background-color: #386e7b !important;
+ 
+}
+
+/*
+.navbar {
+  background-color: #ff0000 !important;
+}
+
+
+.navbar {
+  background-color: linear-gradient(90deg, #ff8a00 0%, #000000 100%) !important;
+}
+*/
+
+/* The background area around the navigation link test. */
+/*
+.nav-link {
+  background-color: red !important;
+*/
+
+/* Default colour of the text on the navigation bar
+b8f0fd = 184 240 253 a lighter version of 126,180,183*/
+.nav-link, .dropdown-item {
+    color: #b8f0fd !important;
+    font-size: 120%;
+}
+
+/* Colour of the text on the navigation bar when hover and drop-down*/
+.nav-link:hover, .dropdown-item:hover {
+    color: white !important;
+}
+
+/*
+.navbar .navbar-nav > li .navbar-item ,
+.navbar .navbar-brand{
+                       color: red;
+                      }
+                      
+*/
